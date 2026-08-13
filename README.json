@@ -1,0 +1,369 @@
+{
+  "items": [
+    {
+      "description": "If you'd like to add an awesome list to that's related to Node.js, be sure to read the contribution guidelines and then make your change and open a pull request!\nBe sure to check out the official Node.js website and the Node.js GitHub organization if you'd like to get involved. Find the original article that sparked this list on the NodeSource Blog.\nLike ? Reach out to @bitandbang on Twitter to say hi! 👋",
+      "items": [],
+      "title": "Meta stuff about this awesome list:"
+    },
+    {
+      "description": "Know of an awesome list that would fit in this section? Help add it!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Node.js",
+          "description": "The core awesome list for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-03T08:24:10Z",
+            "owner": "sindresorhus",
+            "repo": "awesome-nodejs",
+            "stars": 66510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "npm",
+          "description": "A list specifically around npm, the package manager bundled with Node.js by default.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-20T12:11:28Z",
+            "owner": "sindresorhus",
+            "repo": "awesome-npm",
+            "stars": 4734
+          }
+        }
+      ],
+      "title": "Awesome Node.js Lists"
+    },
+    {
+      "description": "Know of an awesome list that would fit in this section? Help add it!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JavaScript",
+          "description": "A central list of everything JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-31T19:54:43Z",
+            "owner": "sorrycc",
+            "repo": "awesome-javascript",
+            "stars": 35019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Functional Programming",
+          "description": "An extensive list of resources on learning, implementing, and using Functional Programming in JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-15T19:55:47Z",
+            "owner": "stoeffel",
+            "repo": "awesome-fp-js",
+            "stars": 6037
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavaScript Learning",
+          "description": "A list limited to the best learning resources about JavaScript – the language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-01T20:52:43Z",
+            "owner": "micromata",
+            "repo": "awesome-javascript-learning",
+            "stars": 5837
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ES6 Tools",
+          "description": "Collection of tooling around enabling ES6 features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-10-31T18:55:04Z",
+            "owner": "addyosmani",
+            "repo": "es6-tools",
+            "stars": 3974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Promises",
+          "description": "A list with a focuses on resources, implementations, and utilities for Promises.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-15T08:38:32Z",
+            "owner": "wbinnssmith",
+            "repo": "awesome-promises",
+            "stars": 1745
+          }
+        }
+      ],
+      "title": "Awesome JavaScript Lists"
+    },
+    {
+      "description": "Know of an awesome list that would fit in this section? Help add it!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Docker",
+          "description": "Everything about Docker, from general articles to community meetups.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-29T22:24:33Z",
+            "owner": "veggiemonk",
+            "repo": "awesome-docker",
+            "stars": 36631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kubernetes",
+          "description": "A bountiful resource to begin orchestrating containerized applications with Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-23T13:33:19Z",
+            "owner": "ramitsurana",
+            "repo": "awesome-kubernetes",
+            "stars": 16049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amazon Web Services (AWS)",
+          "description": "AWS is a de facto choice for deploying Node.js apps to the cloud - fantastic resources around deploying with AWS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-12T09:29:54Z",
+            "owner": "donnemartin",
+            "repo": "awesome-aws",
+            "stars": 14114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linux Containers",
+          "description": "One of the most comprehensive lists of resources surrounding containers and containerization you'll find.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-09T19:01:27Z",
+            "owner": "Friz-zy",
+            "repo": "awesome-linux-containers",
+            "stars": 2084
+          }
+        }
+      ],
+      "title": "Awesome Deployment Lists"
+    },
+    {
+      "description": "Know of an awesome list that would fit in this section? Help add it!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React",
+          "description": "List of resources for React, covering just about every concept, methodology, and implementation in the React ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-20T07:31:52Z",
+            "owner": "enaqx",
+            "repo": "awesome-react",
+            "stars": 74270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue",
+          "description": "Selection of both official and community Vue.js examples, tooling, snippets, components, and projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-24T10:16:04Z",
+            "owner": "vuejs",
+            "repo": "awesome-vue",
+            "stars": 73553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Native",
+          "description": "Comprehensive collection of resources React Native.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-05T13:12:41Z",
+            "owner": "jondot",
+            "repo": "awesome-react-native",
+            "stars": 35699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Electron",
+          "description": "A suite of of resources for building with Electron.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-03T11:29:47Z",
+            "owner": "sindresorhus",
+            "repo": "awesome-electron",
+            "stars": 27253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypeScript",
+          "description": "Everything TypeScript, including essential resources, plugins, and tools.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-02-11T04:21:43Z",
+            "owner": "dzharii",
+            "repo": "awesome-typescript",
+            "stars": 5117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESLint",
+          "description": "List around everything ESLint. You should be linting if you're not already 😉",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-13T23:09:36Z",
+            "owner": "dustinspecker",
+            "repo": "awesome-eslint",
+            "stars": 4742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Webpack",
+          "description": "Curated list of Webpack loaders, integrations, articles, videos, examples, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2021-08-10T13:12:43Z",
+            "owner": "webpack-contrib",
+            "repo": "awesome-webpack",
+            "stars": 4670
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maintenance Modules",
+          "description": "Tiny set of mostly tiny modules, all built to improve the experience of developing and maintaining modules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-05-19T16:35:25Z",
+            "owner": "max-mapper",
+            "repo": "maintenance-modules",
+            "stars": 361
+          }
+        }
+      ],
+      "title": "Awesome Tool, Framework, and Protocol Lists"
+    },
+    {
+      "description": "These are lists that don't necessarily fit in one of the above categories, but",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chrome DevTools",
+          "description": "Compilation of a variety of projects based on the Chrome DevTools tooling, by the DevTools team.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-27T03:36:24Z",
+            "owner": "ChromeDevTools",
+            "repo": "awesome-chrome-devtools",
+            "stars": 7105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome micro npm packages",
+          "description": "Small, focused npm packages that do one thing well.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-18T13:25:02Z",
+            "owner": "parro-it",
+            "repo": "awesome-micro-npm-packages",
+            "stars": 4624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mad Science npm Packages",
+          "description": "Mad science packages, published on npm, that push the bounds of what JavaScript, Node.js, and a suite of other web technologies can do.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-01T18:54:21Z",
+            "owner": "feross",
+            "repo": "awesome-mad-science",
+            "stars": 1216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Network-layer JavaScript",
+          "description": "Networking tools, modules, and protocol implementations built with JavaScript and Node.js that enable developers to build against a variety of network layers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-10-12T15:05:25Z",
+            "owner": "Kikobeats",
+            "repo": "awesome-network-js",
+            "stars": 584
+          }
+        }
+      ],
+      "title": "Awesome Ecosystem Lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T20:01:30.884Z",
+    "original_repository": "bnb/awesome-awesome-nodejs",
+    "original_repository_sha": "eb11699378d241c9f139e807d29f95d04a224e24",
+    "enhanced_repository": "enhansome/enhansome-awesome-nodejs",
+    "enhanced_repository_description": null,
+    "title": "Awesome Awesome Node.js with stars"
+  }
+}
