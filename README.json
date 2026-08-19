@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "description": "If you'd like to add an awesome list to that's related to Node.js, be sure to read the contribution guidelines and then make your change and open a pull request!\nBe sure to check out the official Node.js website and the Node.js GitHub organization if you'd like to get involved. Find the original article that sparked this list on the NodeSource Blog.\nLike ? Reach out to @bitandbang on Twitter to say hi! 👋",
-      "items": [],
-      "title": "Meta stuff about this awesome list:"
-    },
-    {
       "description": "Know of an awesome list that would fit in this section? Help add it!",
       "items": [
         {
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21737266,
             "language": null,
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66552
+            "stars": 66558
           }
         },
         {
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49596056,
             "language": null,
             "last_commit": "2026-04-20T12:11:28Z",
             "owner": "sindresorhus",
@@ -49,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21393871,
             "language": null,
             "last_commit": "2026-08-17T07:30:04Z",
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35016
+            "stars": 35015
           }
         },
         {
@@ -63,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35660659,
             "language": null,
             "last_commit": "2026-01-15T19:55:47Z",
             "owner": "stoeffel",
@@ -77,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73953958,
             "language": null,
             "last_commit": "2026-02-01T20:52:43Z",
             "owner": "micromata",
@@ -91,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15325285,
             "language": null,
             "last_commit": "2019-10-31T18:55:04Z",
             "owner": "addyosmani",
@@ -105,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42789965,
             "language": null,
             "last_commit": "2023-12-15T08:38:32Z",
             "owner": "wbinnssmith",
@@ -125,11 +127,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24297122,
             "language": null,
-            "last_commit": "2026-07-29T22:24:33Z",
+            "last_commit": "2026-08-18T20:54:04Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36663
+            "stars": 36667
           }
         },
         {
@@ -139,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44315167,
             "language": "Shell",
             "last_commit": "2026-06-23T13:33:19Z",
             "owner": "ramitsurana",
@@ -153,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44104712,
             "language": "Python",
             "last_commit": "2024-03-12T09:29:54Z",
             "owner": "donnemartin",
@@ -167,11 +172,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40815285,
             "language": null,
             "last_commit": "2024-04-09T19:01:27Z",
             "owner": "Friz-zy",
             "repo": "awesome-linux-containers",
-            "stars": 2088
+            "stars": 2089
           }
         }
       ],
@@ -187,11 +193,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22670857,
             "language": null,
             "last_commit": "2026-07-20T07:31:52Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74323
+            "stars": 74334
           }
         },
         {
@@ -201,11 +208,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44571718,
             "language": null,
             "last_commit": "2026-07-24T10:16:04Z",
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73542
+            "stars": 73538
           }
         },
         {
@@ -215,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32948863,
             "language": "JavaScript",
             "last_commit": "2024-07-05T13:12:41Z",
             "owner": "jondot",
@@ -229,11 +238,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34453060,
             "language": null,
             "last_commit": "2026-05-03T11:29:47Z",
             "owner": "sindresorhus",
             "repo": "awesome-electron",
-            "stars": 27256
+            "stars": 27257
           }
         },
         {
@@ -243,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 36996520,
             "language": null,
             "last_commit": "2026-02-11T04:21:43Z",
             "owner": "dzharii",
@@ -257,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45218649,
             "language": null,
             "last_commit": "2026-05-13T23:09:36Z",
             "owner": "dustinspecker",
@@ -271,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 64699494,
             "language": "HTML",
             "last_commit": "2021-08-10T13:12:43Z",
             "owner": "webpack-contrib",
@@ -285,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29893727,
             "language": null,
             "last_commit": "2016-05-19T16:35:25Z",
             "owner": "max-mapper",
@@ -305,6 +319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53394547,
             "language": null,
             "last_commit": "2026-03-27T03:36:24Z",
             "owner": "ChromeDevTools",
@@ -319,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51155797,
             "language": null,
             "last_commit": "2023-12-18T13:25:02Z",
             "owner": "parro-it",
@@ -333,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26699459,
             "language": null,
             "last_commit": "2022-05-01T18:54:21Z",
             "owner": "feross",
@@ -347,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44055144,
             "language": null,
             "last_commit": "2020-10-12T15:05:25Z",
             "owner": "Kikobeats",
@@ -359,8 +377,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:44:30.804Z",
+    "last_updated": "2026-08-19T12:18:40.265Z",
     "original_repository": "bnb/awesome-awesome-nodejs",
+    "original_repository_id": 113710605,
     "original_repository_sha": "eb11699378d241c9f139e807d29f95d04a224e24",
     "enhanced_repository": "enhansome/enhansome-awesome-nodejs",
     "enhanced_repository_description": null,
