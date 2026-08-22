@@ -15,7 +15,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66584
+            "stars": 66591
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-19T17:00:42Z",
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35015
+            "stars": 35017
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2023-12-15T08:38:32Z",
             "owner": "wbinnssmith",
             "repo": "awesome-promises",
-            "stars": 1748
+            "stars": 1750
           }
         }
       ],
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36681
+            "stars": 36689
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2024-03-12T09:29:54Z",
             "owner": "donnemartin",
             "repo": "awesome-aws",
-            "stars": 14127
+            "stars": 14125
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-08-20T07:58:12Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74358
+            "stars": 74366
           }
         },
         {
@@ -324,7 +324,7 @@
             "last_commit": "2026-03-27T03:36:24Z",
             "owner": "ChromeDevTools",
             "repo": "awesome-chrome-devtools",
-            "stars": 7118
+            "stars": 7119
           }
         },
         {
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:42:00.479Z",
+    "last_updated": "2026-08-22T19:40:51.793Z",
     "original_repository": "bnb/awesome-awesome-nodejs",
     "original_repository_id": 113710605,
     "original_repository_sha": "eb11699378d241c9f139e807d29f95d04a224e24",
