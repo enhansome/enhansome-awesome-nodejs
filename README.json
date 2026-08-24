@@ -15,7 +15,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66610
+            "stars": 66611
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-20T12:11:28Z",
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4734
+            "stars": 4735
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-19T17:00:42Z",
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35021
+            "stars": 35022
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36701
+            "stars": 36703
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2024-03-12T09:29:54Z",
             "owner": "donnemartin",
             "repo": "awesome-aws",
-            "stars": 14127
+            "stars": 14128
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2024-04-09T19:01:27Z",
             "owner": "Friz-zy",
             "repo": "awesome-linux-containers",
-            "stars": 2090
+            "stars": 2091
           }
         }
       ],
@@ -213,7 +213,7 @@
             "last_commit": "2026-07-24T10:16:04Z",
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73534
+            "stars": 73536
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2026-05-13T23:09:36Z",
             "owner": "dustinspecker",
             "repo": "awesome-eslint",
-            "stars": 4750
+            "stars": 4751
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2021-08-10T13:12:43Z",
             "owner": "webpack-contrib",
             "repo": "awesome-webpack",
-            "stars": 4671
+            "stars": 4672
           }
         },
         {
@@ -324,7 +324,7 @@
             "last_commit": "2026-03-27T03:36:24Z",
             "owner": "ChromeDevTools",
             "repo": "awesome-chrome-devtools",
-            "stars": 7121
+            "stars": 7122
           }
         },
         {
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:12:45.876Z",
+    "last_updated": "2026-08-24T19:48:32.603Z",
     "original_repository": "bnb/awesome-awesome-nodejs",
     "original_repository_id": 113710605,
     "original_repository_sha": "eb11699378d241c9f139e807d29f95d04a224e24",
