@@ -15,7 +15,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66605
+            "stars": 66610
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-19T17:00:42Z",
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35018
+            "stars": 35021
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-02-01T20:52:43Z",
             "owner": "micromata",
             "repo": "awesome-javascript-learning",
-            "stars": 5841
+            "stars": 5842
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36696
+            "stars": 36701
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-06-23T13:33:19Z",
             "owner": "ramitsurana",
             "repo": "awesome-kubernetes",
-            "stars": 16056
+            "stars": 16055
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2024-03-12T09:29:54Z",
             "owner": "donnemartin",
             "repo": "awesome-aws",
-            "stars": 14125
+            "stars": 14127
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-08-20T07:58:12Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74374
+            "stars": 74383
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-07-24T10:16:04Z",
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73538
+            "stars": 73534
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2024-07-05T13:12:41Z",
             "owner": "jondot",
             "repo": "awesome-react-native",
-            "stars": 35691
+            "stars": 35690
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-05-03T11:29:47Z",
             "owner": "sindresorhus",
             "repo": "awesome-electron",
-            "stars": 27263
+            "stars": 27264
           }
         },
         {
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:40:16.642Z",
+    "last_updated": "2026-08-24T14:12:45.876Z",
     "original_repository": "bnb/awesome-awesome-nodejs",
     "original_repository_id": 113710605,
     "original_repository_sha": "eb11699378d241c9f139e807d29f95d04a224e24",
