@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]",
+            "homepage": "https://node.cool",
             "id": 21737266,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-03T08:24:10Z",
+            "open_issues": 26,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66640
+            "stars": 66640,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "javascript",
+              "list",
+              "node",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
         },
@@ -26,12 +38,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome npm resources and tips",
+            "homepage": null,
             "id": 49596056,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-04-20T12:11:28Z",
+            "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4736
+            "stars": 4736,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "node",
+              "nodejs",
+              "npm",
+              "package-manager",
+              "yarn"
+            ]
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
         }
@@ -48,12 +74,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.",
+            "homepage": null,
             "id": 21393871,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-19T17:00:42Z",
+            "open_issues": 31,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35022
+            "stars": 35022,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
         },
@@ -64,12 +95,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
+            "homepage": null,
             "id": 35660659,
             "language": null,
+            "license": null,
             "last_commit": "2026-01-15T19:55:47Z",
+            "open_issues": 1,
             "owner": "stoeffel",
             "repo": "awesome-fp-js",
-            "stars": 6035
+            "stars": 6035,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
         },
@@ -80,12 +116,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny list limited to the best JavaScript Learning Resources",
+            "homepage": null,
             "id": 73953958,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-02-01T20:52:43Z",
+            "open_issues": 7,
             "owner": "micromata",
             "repo": "awesome-javascript-learning",
-            "stars": 5843
+            "stars": 5843,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "javascript",
+              "javascript-learning",
+              "learning",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
         },
@@ -96,12 +144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An aggregation of tooling for using ES6 today",
+            "homepage": null,
             "id": 15325285,
             "language": null,
+            "license": "MIT",
             "last_commit": "2019-10-31T18:55:04Z",
+            "open_issues": 14,
             "owner": "addyosmani",
             "repo": "es6-tools",
-            "stars": 3972
+            "stars": 3972,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
         },
@@ -112,12 +165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of useful resources for JavaScript Promises",
+            "homepage": null,
             "id": 42789965,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-12-15T08:38:32Z",
+            "open_issues": 8,
             "owner": "wbinnssmith",
             "repo": "awesome-promises",
-            "stars": 1751
+            "stars": 1751,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
         }
@@ -134,12 +192,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":whale: A curated list of Docker resources and projects",
+            "homepage": "https://average.joe.dev/awesome-docker/",
             "id": 24297122,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:04:16Z",
+            "open_issues": 25,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36736
+            "stars": 36736,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "container",
+              "docker",
+              "docker-api",
+              "docker-container",
+              "docker-deployment",
+              "docker-environment",
+              "docker-image",
+              "docker-machine",
+              "docker-monitoring",
+              "docker-registry",
+              "docker-security",
+              "docker-swarm",
+              "dockerfile",
+              "list",
+              "moby",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
         },
@@ -150,12 +232,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list for awesome kubernetes sources :ship::tada:",
+            "homepage": "https://ramitsurana.github.io/awesome-kubernetes",
             "id": 44315167,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-23T13:33:19Z",
+            "open_issues": 83,
             "owner": "ramitsurana",
             "repo": "awesome-kubernetes",
-            "stars": 16060
+            "stars": 16060,
+            "topics": [
+              "aws",
+              "azure",
+              "books",
+              "cloud-providers",
+              "deploy-kubernetes",
+              "docker",
+              "enterprise-kubernetes-products",
+              "google-cloud",
+              "google-kubernetes",
+              "kubernetes",
+              "kubernetes-cluster",
+              "kubernetes-sources",
+              "machine-learning",
+              "meetup",
+              "minikube",
+              "monitoring-kubernetes",
+              "resource",
+              "schedule"
+            ]
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
         },
@@ -166,12 +272,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
+            "homepage": null,
             "id": 44104712,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-12T09:29:54Z",
+            "open_issues": 102,
             "owner": "donnemartin",
             "repo": "awesome-aws",
-            "stars": 14129
+            "stars": 14128,
+            "topics": [
+              "aws",
+              "aws-cli",
+              "aws-sdk",
+              "cloud",
+              "cloud-management",
+              "cloudformation",
+              "cloudwatch",
+              "dynamodb",
+              "ec2",
+              "ecs",
+              "elasticsearch",
+              "iam",
+              "kinesis",
+              "lambda",
+              "machine-learning",
+              "rds",
+              "redshift",
+              "route53",
+              "s3",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
         },
@@ -182,12 +314,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Linux Containers frameworks, libraries and software",
+            "homepage": null,
             "id": 40815285,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2024-04-09T19:01:27Z",
+            "open_issues": 11,
             "owner": "Friz-zy",
             "repo": "awesome-linux-containers",
-            "stars": 2093
+            "stars": 2093,
+            "topics": [
+              "awesome",
+              "best-practices",
+              "containers",
+              "linux-containers"
+            ]
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
         }
@@ -204,12 +346,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome things regarding React ecosystem",
+            "homepage": null,
             "id": 22670857,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-20T07:58:12Z",
+            "open_issues": 83,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74426
+            "stars": 74426,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "javascript",
+              "react",
+              "react-apps",
+              "react-native",
+              "react-tutorial",
+              "samples",
+              "tutorial",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
         },
@@ -220,12 +378,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎉 A curated list of awesome things related to Vue.js",
+            "homepage": null,
             "id": 44571718,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-24T10:16:04Z",
+            "open_issues": 100,
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73549
+            "stars": 73548,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
         },
@@ -236,12 +399,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome React Native components, news, tools, and learning material!",
+            "homepage": "http://www.awesome-react-native.com",
             "id": 32948863,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-26T14:11:18Z",
+            "open_issues": 9,
             "owner": "jondot",
             "repo": "awesome-react-native",
-            "stars": 35693
+            "stars": 35693,
+            "topics": [
+              "awesome-list",
+              "mobile",
+              "react",
+              "react-native"
+            ]
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
         },
@@ -252,12 +425,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF]",
+            "homepage": null,
             "id": 34453060,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-03T11:29:47Z",
+            "open_issues": 7,
             "owner": "sindresorhus",
             "repo": "awesome-electron",
-            "stars": 27266
+            "stars": 27266,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "electron",
+              "list"
+            ]
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
         },
@@ -268,12 +451,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript",
+            "homepage": null,
             "id": 36996520,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2026-02-11T04:21:43Z",
+            "open_issues": 3,
             "owner": "dzharii",
             "repo": "awesome-typescript",
-            "stars": 5118
+            "stars": 5118,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
         },
@@ -284,12 +472,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of awesome ESLint plugins, configs, etc.",
+            "homepage": null,
             "id": 45218649,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-13T23:09:36Z",
+            "open_issues": 14,
             "owner": "dustinspecker",
             "repo": "awesome-eslint",
-            "stars": 4751
+            "stars": 4751,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "eslint",
+              "list"
+            ]
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
         },
@@ -300,12 +498,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A curated list of awesome Webpack resources, libraries and tools",
+            "homepage": null,
             "id": 64699494,
             "language": "HTML",
+            "license": "CC0-1.0",
             "last_commit": "2021-08-10T13:12:43Z",
+            "open_issues": 20,
             "owner": "webpack-contrib",
             "repo": "awesome-webpack",
-            "stars": 4673
+            "stars": 4673,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "documentation",
+              "list",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
         },
@@ -316,12 +525,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a list of modules that are useful for maintaining or developing modules",
+            "homepage": null,
             "id": 29893727,
             "language": null,
+            "license": null,
             "last_commit": "2016-05-19T16:35:25Z",
+            "open_issues": 3,
             "owner": "max-mapper",
             "repo": "maintenance-modules",
-            "stars": 361
+            "stars": 361,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
         }
@@ -338,12 +552,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem",
+            "homepage": "https://github.com/ChromeDevTools/awesome-chrome-devtools#readme",
             "id": 53394547,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-27T03:36:24Z",
+            "open_issues": 23,
             "owner": "ChromeDevTools",
             "repo": "awesome-chrome-devtools",
-            "stars": 7124
+            "stars": 7124,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
         },
@@ -354,12 +576,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of small, focused npm packages.",
+            "homepage": null,
             "id": 51155797,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-12-18T13:25:02Z",
+            "open_issues": 7,
             "owner": "parro-it",
             "repo": "awesome-micro-npm-packages",
-            "stars": 4624
+            "stars": 4624,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
         },
@@ -370,12 +597,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Delightful npm packages that make you say \"wow, didn't know that was possible!\"",
+            "homepage": null,
             "id": 26699459,
             "language": null,
+            "license": null,
             "last_commit": "2022-05-01T18:54:21Z",
+            "open_issues": 11,
             "owner": "feross",
             "repo": "awesome-mad-science",
-            "stars": 1215
+            "stars": 1215,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "browser",
+              "browserify",
+              "javascript",
+              "lstm",
+              "mad-science",
+              "nodejs",
+              "npm"
+            ]
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
         },
@@ -386,12 +628,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A :tophat: list of network layer resources written pure JS.",
+            "homepage": null,
             "id": 44055144,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2020-10-12T15:05:25Z",
+            "open_issues": 0,
             "owner": "Kikobeats",
             "repo": "awesome-network-js",
-            "stars": 582
+            "stars": 582,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
         }
@@ -400,15 +647,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:17:30.989Z",
+    "last_updated": "2026-08-29T04:27:59.236Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🐢🚀 An Awesome list of Awesome lists related to Node.js.",
+      "homepage": null,
       "id": 113710605,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-02-07T19:57:30Z",
+      "open_issues": 0,
       "owner": "bnb",
       "repo": "awesome-awesome-nodejs",
-      "stars": 1631
+      "stars": 1631,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "developer-tools",
+        "javascript",
+        "lists",
+        "modules",
+        "node",
+        "nodejs",
+        "npm",
+        "resources",
+        "turtle-rocket"
+      ]
     },
     "original_repository_sha": "eb11699378d241c9f139e807d29f95d04a224e24",
     "enhanced_repository": "enhansome/enhansome-awesome-nodejs",
