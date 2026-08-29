@@ -15,8 +15,9 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66636
-          }
+            "stars": 66640
+          },
+          "first_seen": "2026-08-29T02:17:30.989Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "sindresorhus",
             "repo": "awesome-npm",
             "stars": 4736
-          }
+          },
+          "first_seen": "2026-08-29T02:17:30.989Z"
         }
       ],
       "title": "Awesome Node.js Lists"
@@ -51,8 +53,9 @@
             "last_commit": "2026-08-19T17:00:42Z",
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35021
-          }
+            "stars": 35022
+          },
+          "first_seen": "2026-08-29T02:17:30.989Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "stoeffel",
             "repo": "awesome-fp-js",
             "stars": 6035
-          }
+          },
+          "first_seen": "2026-08-29T02:17:30.989Z"
         },
         {
           "node_type": "item",
@@ -81,8 +85,9 @@
             "last_commit": "2026-02-01T20:52:43Z",
             "owner": "micromata",
             "repo": "awesome-javascript-learning",
-            "stars": 5844
-          }
+            "stars": 5843
+          },
+          "first_seen": "2026-08-29T02:17:30.989Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "addyosmani",
             "repo": "es6-tools",
             "stars": 3972
-          }
+          },
+          "first_seen": "2026-08-29T02:17:30.989Z"
         },
         {
           "node_type": "item",
@@ -111,8 +117,9 @@
             "last_commit": "2023-12-15T08:38:32Z",
             "owner": "wbinnssmith",
             "repo": "awesome-promises",
-            "stars": 1750
-          }
+            "stars": 1751
+          },
+          "first_seen": "2026-08-29T02:17:30.989Z"
         }
       ],
       "title": "Awesome JavaScript Lists"
@@ -132,8 +139,9 @@
             "last_commit": "2026-08-27T17:04:16Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36731
-          }
+            "stars": 36736
+          },
+          "first_seen": "2026-08-29T02:17:30.989Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "ramitsurana",
             "repo": "awesome-kubernetes",
             "stars": 16060
-          }
+          },
+          "first_seen": "2026-08-29T02:17:30.989Z"
         },
         {
           "node_type": "item",
@@ -162,8 +171,9 @@
             "last_commit": "2024-03-12T09:29:54Z",
             "owner": "donnemartin",
             "repo": "awesome-aws",
-            "stars": 14127
-          }
+            "stars": 14129
+          },
+          "first_seen": "2026-08-29T02:17:30.989Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "Friz-zy",
             "repo": "awesome-linux-containers",
             "stars": 2093
-          }
+          },
+          "first_seen": "2026-08-29T02:17:30.989Z"
         }
       ],
       "title": "Awesome Deployment Lists"
@@ -198,8 +209,9 @@
             "last_commit": "2026-08-20T07:58:12Z",
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74416
-          }
+            "stars": 74426
+          },
+          "first_seen": "2026-08-29T02:17:30.989Z"
         },
         {
           "node_type": "item",
@@ -213,8 +225,9 @@
             "last_commit": "2026-07-24T10:16:04Z",
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73545
-          }
+            "stars": 73549
+          },
+          "first_seen": "2026-08-29T02:17:30.989Z"
         },
         {
           "node_type": "item",
@@ -228,8 +241,9 @@
             "last_commit": "2026-08-26T14:11:18Z",
             "owner": "jondot",
             "repo": "awesome-react-native",
-            "stars": 35694
-          }
+            "stars": 35693
+          },
+          "first_seen": "2026-08-29T02:17:30.989Z"
         },
         {
           "node_type": "item",
@@ -243,8 +257,9 @@
             "last_commit": "2026-05-03T11:29:47Z",
             "owner": "sindresorhus",
             "repo": "awesome-electron",
-            "stars": 27265
-          }
+            "stars": 27266
+          },
+          "first_seen": "2026-08-29T02:17:30.989Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "dzharii",
             "repo": "awesome-typescript",
             "stars": 5118
-          }
+          },
+          "first_seen": "2026-08-29T02:17:30.989Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "dustinspecker",
             "repo": "awesome-eslint",
             "stars": 4751
-          }
+          },
+          "first_seen": "2026-08-29T02:17:30.989Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "webpack-contrib",
             "repo": "awesome-webpack",
             "stars": 4673
-          }
+          },
+          "first_seen": "2026-08-29T02:17:30.989Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "max-mapper",
             "repo": "maintenance-modules",
             "stars": 361
-          }
+          },
+          "first_seen": "2026-08-29T02:17:30.989Z"
         }
       ],
       "title": "Awesome Tool, Framework, and Protocol Lists"
@@ -325,7 +344,8 @@
             "owner": "ChromeDevTools",
             "repo": "awesome-chrome-devtools",
             "stars": 7124
-          }
+          },
+          "first_seen": "2026-08-29T02:17:30.989Z"
         },
         {
           "node_type": "item",
@@ -340,7 +360,8 @@
             "owner": "parro-it",
             "repo": "awesome-micro-npm-packages",
             "stars": 4624
-          }
+          },
+          "first_seen": "2026-08-29T02:17:30.989Z"
         },
         {
           "node_type": "item",
@@ -355,7 +376,8 @@
             "owner": "feross",
             "repo": "awesome-mad-science",
             "stars": 1215
-          }
+          },
+          "first_seen": "2026-08-29T02:17:30.989Z"
         },
         {
           "node_type": "item",
@@ -370,14 +392,15 @@
             "owner": "Kikobeats",
             "repo": "awesome-network-js",
             "stars": 582
-          }
+          },
+          "first_seen": "2026-08-29T02:17:30.989Z"
         }
       ],
       "title": "Awesome Ecosystem Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:36:34.551Z",
+    "last_updated": "2026-08-29T02:17:30.989Z",
     "original_repository_info": {
       "archived": false,
       "id": 113710605,
@@ -385,7 +408,7 @@
       "last_commit": "2023-02-07T19:57:30Z",
       "owner": "bnb",
       "repo": "awesome-awesome-nodejs",
-      "stars": 1630
+      "stars": 1631
     },
     "original_repository_sha": "eb11699378d241c9f139e807d29f95d04a224e24",
     "enhanced_repository": "enhansome/enhansome-awesome-nodejs",
