@@ -2,7 +2,7 @@
 
 > A curated list of awesome lists that are about or related to Node.js.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,375 | 🐛 105 | 📅 2026-09-02 list thing, going deeper down the rabbit hole. 🐰*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,690 | 🐛 105 | 📅 2026-09-02 list thing, going deeper down the rabbit hole. 🐰*
 
 #### Meta stuff about this awesome list:
 
@@ -30,7 +30,7 @@ Like `awesome-awesome-nodejs`? Reach out to [@bitandbang](https://twitter.com/bi
 
 Know of an awesome list that would fit in this section? [Help add it!](https://github.com/bnb/awesome-awesome-nodejs/issues/new) ⭐ 1,631 | 🐛 0 | 📅 2023-02-07
 
-* [Node.js](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,685 | 🐛 26 | 📅 2026-09-02 - The core awesome list for Node.js.
+* [Node.js](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,694 | 🐛 26 | 📅 2026-09-02 - The core awesome list for Node.js.
 * [npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,737 | 🐛 1 | 📅 2026-04-20 - A list specifically around npm, the package manager bundled with Node.js by default.
 
 ## Awesome JavaScript Lists
@@ -47,21 +47,21 @@ Know of an awesome list that would fit in this section? [Help add it!](https://g
 
 Know of an awesome list that would fit in this section? [Help add it!](https://github.com/bnb/awesome-awesome-nodejs/issues/new) ⭐ 1,631 | 🐛 0 | 📅 2023-02-07
 
-* [Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,764 | 🐛 27 | 📅 2026-08-27 - Everything about Docker, from general articles to community meetups.
-* [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐ 16,066 | 🐛 85 | 🌐 Shell | 📅 2026-06-23 - A bountiful resource to begin orchestrating containerized applications with Kubernetes.
-* [Amazon Web Services (AWS)](https://github.com/donnemartin/awesome-aws) ⭐ 14,134 | 🐛 102 | 🌐 Python | 📅 2024-03-12 - AWS is a de facto choice for deploying Node.js apps to the cloud - fantastic resources around deploying with AWS.
-* [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers) ⭐ 2,093 | 🐛 11 | 📅 2024-04-09 - One of the most comprehensive lists of resources surrounding containers and containerization you'll find.
+* [Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,769 | 🐛 28 | 📅 2026-08-27 - Everything about Docker, from general articles to community meetups.
+* [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐ 16,067 | 🐛 85 | 🌐 Shell | 📅 2026-09-03 - A bountiful resource to begin orchestrating containerized applications with Kubernetes.
+* [Amazon Web Services (AWS)](https://github.com/donnemartin/awesome-aws) ⭐ 14,137 | 🐛 102 | 🌐 Python | 📅 2024-03-12 - AWS is a de facto choice for deploying Node.js apps to the cloud - fantastic resources around deploying with AWS.
+* [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers) ⭐ 2,094 | 🐛 11 | 📅 2024-04-09 - One of the most comprehensive lists of resources surrounding containers and containerization you'll find.
 
 ## Awesome Tool, Framework, and Protocol Lists
 
 Know of an awesome list that would fit in this section? [Help add it!](https://github.com/bnb/awesome-awesome-nodejs/issues/new) ⭐ 1,631 | 🐛 0 | 📅 2023-02-07
 
-* [React](https://github.com/enaqx/awesome-react) ⭐ 74,468 | 🐛 89 | 📅 2026-08-20 - List of resources for React, covering just about every concept, methodology, and implementation in the React ecosystem.
-* [Vue](https://github.com/vuejs/awesome-vue) ⭐ 73,549 | 🐛 104 | 📅 2026-07-24 - Selection of both official and community Vue.js examples, tooling, snippets, components, and projects.
-* [React Native](https://github.com/jondot/awesome-react-native) ⭐ 35,694 | 🐛 14 | 📅 2026-08-26 - Comprehensive collection of resources React Native.
-* [Electron](https://github.com/sindresorhus/awesome-electron) ⭐ 27,270 | 🐛 7 | 📅 2026-05-03 - A suite of of resources for building with [Electron](electron.atom.io).
+* [React](https://github.com/enaqx/awesome-react) ⭐ 74,478 | 🐛 53 | 📅 2026-09-03 - List of resources for React, covering just about every concept, methodology, and implementation in the React ecosystem.
+* [Vue](https://github.com/vuejs/awesome-vue) ⭐ 73,546 | 🐛 103 | 📅 2026-07-24 - Selection of both official and community Vue.js examples, tooling, snippets, components, and projects.
+* [React Native](https://github.com/jondot/awesome-react-native) ⭐ 35,694 | 🐛 15 | 📅 2026-08-26 - Comprehensive collection of resources React Native.
+* [Electron](https://github.com/sindresorhus/awesome-electron) ⭐ 27,271 | 🐛 7 | 📅 2026-05-03 - A suite of of resources for building with [Electron](electron.atom.io).
 * [TypeScript](https://github.com/dzharii/awesome-typescript) ⚠️ Archived - Everything TypeScript, including essential resources, plugins, and tools.
-* [ESLint](https://github.com/dustinspecker/awesome-eslint) ⭐ 4,752 | 🐛 14 | 📅 2026-05-13 - List around everything ESLint. You should be linting if you're not already 😉
+* [ESLint](https://github.com/dustinspecker/awesome-eslint) ⭐ 4,753 | 🐛 15 | 📅 2026-05-13 - List around everything ESLint. You should be linting if you're not already 😉
 * [Webpack](https://github.com/d3viant0ne/awesome-webpack) ⚠️ Archived - Curated list of Webpack loaders, integrations, articles, videos, examples, and more.
 * [Maintenance Modules](https://github.com/maxogden/maintenance-modules) ⭐ 361 | 🐛 3 | 📅 2016-05-19 - *Tiny* set of mostly tiny modules, all built to improve the experience of developing and maintaining modules.
 
@@ -69,11 +69,11 @@ Know of an awesome list that would fit in this section? [Help add it!](https://g
 
 These are lists that don't necessarily fit in one of the above categories, but
 
-* [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools) ⭐ 7,131 | 🐛 25 | 📅 2026-03-27 - Compilation of a variety of projects based on the Chrome DevTools tooling, by the DevTools team.
+* [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools) ⭐ 7,132 | 🐛 25 | 📅 2026-03-27 - Compilation of a variety of projects based on the Chrome DevTools tooling, by the DevTools team.
 * [Awesome micro npm packages](https://github.com/parro-it/awesome-micro-npm-packages) ⭐ 4,623 | 🐛 6 | 📅 2023-12-18 - Small, focused npm packages that do one thing well.
 * [Mad Science npm Packages](https://github.com/feross/awesome-mad-science) ⭐ 1,215 | 🐛 11 | 📅 2022-05-01 - Mad science packages, published on npm, that push the bounds of what JavaScript, Node.js, and a suite of other web technologies can do.
 * [Network-layer JavaScript](https://github.com/Kikobeats/awesome-network-js) ⭐ 583 | 🐛 0 | 📅 2020-10-12 - Networking tools, modules, and protocol implementations built with JavaScript and Node.js that enable developers to build against a variety of network layers.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
