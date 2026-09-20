@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66857,
+            "stars": 66874,
             "topics": [
               "awesome",
               "awesome-list",
@@ -47,7 +47,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4736,
+            "stars": 4737,
             "topics": [
               "awesome",
               "awesome-list",
@@ -80,7 +80,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-08T21:09:10Z",
-            "open_issues": 24,
+            "open_issues": 23,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
             "stars": 35030,
@@ -174,7 +174,7 @@
             "open_issues": 8,
             "owner": "wbinnssmith",
             "repo": "awesome-promises",
-            "stars": 1756,
+            "stars": 1757,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
@@ -198,10 +198,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-09-12T10:37:31Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36852,
+            "stars": 36857,
             "topics": [
               "awesome",
               "awesome-list",
@@ -241,7 +241,7 @@
             "open_issues": 92,
             "owner": "ramitsurana",
             "repo": "awesome-kubernetes",
-            "stars": 16083,
+            "stars": 16085,
             "topics": [
               "aws",
               "azure",
@@ -281,7 +281,7 @@
             "open_issues": 103,
             "owner": "donnemartin",
             "repo": "awesome-aws",
-            "stars": 14145,
+            "stars": 14147,
             "topics": [
               "aws",
               "aws-cli",
@@ -323,7 +323,7 @@
             "open_issues": 11,
             "owner": "Friz-zy",
             "repo": "awesome-linux-containers",
-            "stars": 2100,
+            "stars": 2101,
             "topics": [
               "awesome",
               "best-practices",
@@ -352,10 +352,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T01:13:20Z",
-            "open_issues": 11,
+            "open_issues": 13,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74650,
+            "stars": 74661,
             "topics": [
               "awesome",
               "awesome-list",
@@ -387,7 +387,7 @@
             "open_issues": 80,
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73547,
+            "stars": 73546,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
@@ -408,7 +408,7 @@
             "open_issues": 21,
             "owner": "jondot",
             "repo": "awesome-react-native",
-            "stars": 35700,
+            "stars": 35701,
             "topics": [
               "awesome-list",
               "mobile",
@@ -561,7 +561,7 @@
             "open_issues": 26,
             "owner": "ChromeDevTools",
             "repo": "awesome-chrome-devtools",
-            "stars": 7146,
+            "stars": 7147,
             "topics": [
               "awesome",
               "awesome-list"
@@ -606,7 +606,7 @@
             "open_issues": 11,
             "owner": "feross",
             "repo": "awesome-mad-science",
-            "stars": 1216,
+            "stars": 1217,
             "topics": [
               "awesome",
               "awesome-list",
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T21:29:51.745Z",
+    "last_updated": "2026-09-20T21:37:48.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "🐢🚀 An Awesome list of Awesome lists related to Node.js.",
