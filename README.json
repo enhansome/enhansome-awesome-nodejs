@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67097,
+            "stars": 67103,
             "topics": [
               "awesome",
               "awesome-list",
@@ -47,7 +47,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-npm",
-            "stars": 4744,
+            "stars": 4745,
             "topics": [
               "awesome",
               "awesome-list",
@@ -80,10 +80,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-10T10:24:22Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35029,
+            "stars": 35028,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
@@ -125,7 +125,7 @@
             "open_issues": 10,
             "owner": "micromata",
             "repo": "awesome-javascript-learning",
-            "stars": 5864,
+            "stars": 5866,
             "topics": [
               "awesome",
               "awesome-list",
@@ -153,7 +153,7 @@
             "open_issues": 14,
             "owner": "addyosmani",
             "repo": "es6-tools",
-            "stars": 3975,
+            "stars": 3974,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
@@ -198,10 +198,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T05:20:29Z",
-            "open_issues": 51,
+            "open_issues": 52,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37022,
+            "stars": 37028,
             "topics": [
               "awesome",
               "awesome-list",
@@ -238,10 +238,10 @@
             "language": "Shell",
             "license": "NOASSERTION",
             "last_commit": "2026-09-21T12:04:05Z",
-            "open_issues": 99,
+            "open_issues": 102,
             "owner": "ramitsurana",
             "repo": "awesome-kubernetes",
-            "stars": 16118,
+            "stars": 16120,
             "topics": [
               "aws",
               "azure",
@@ -281,7 +281,7 @@
             "open_issues": 104,
             "owner": "donnemartin",
             "repo": "awesome-aws",
-            "stars": 14171,
+            "stars": 14174,
             "topics": [
               "aws",
               "aws-cli",
@@ -355,7 +355,7 @@
             "open_issues": 23,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74870,
+            "stars": 74889,
             "topics": [
               "awesome",
               "awesome-list",
@@ -384,10 +384,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-01T19:32:18Z",
-            "open_issues": 92,
+            "open_issues": 93,
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73515,
+            "stars": 73519,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
@@ -408,7 +408,7 @@
             "open_issues": 28,
             "owner": "jondot",
             "repo": "awesome-react-native",
-            "stars": 35702,
+            "stars": 35703,
             "topics": [
               "awesome-list",
               "mobile",
@@ -434,7 +434,7 @@
             "open_issues": 7,
             "owner": "sindresorhus",
             "repo": "awesome-electron",
-            "stars": 27305,
+            "stars": 27310,
             "topics": [
               "awesome",
               "awesome-list",
@@ -460,7 +460,7 @@
             "open_issues": 3,
             "owner": "dzharii",
             "repo": "awesome-typescript",
-            "stars": 5116,
+            "stars": 5115,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
@@ -534,7 +534,7 @@
             "open_issues": 3,
             "owner": "max-mapper",
             "repo": "maintenance-modules",
-            "stars": 359,
+            "stars": 360,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
@@ -561,7 +561,7 @@
             "open_issues": 2,
             "owner": "ChromeDevTools",
             "repo": "awesome-chrome-devtools",
-            "stars": 7159,
+            "stars": 7162,
             "topics": [
               "awesome",
               "awesome-list"
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T01:25:07.825Z",
+    "last_updated": "2026-10-13T23:18:41.854Z",
     "original_repository_info": {
       "archived": false,
       "description": "🐢🚀 An Awesome list of Awesome lists related to Node.js.",
@@ -659,7 +659,7 @@
       "open_issues": 0,
       "owner": "bnb",
       "repo": "awesome-awesome-nodejs",
-      "stars": 1635,
+      "stars": 1636,
       "topics": [
         "awesome",
         "awesome-list",
