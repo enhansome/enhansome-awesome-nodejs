@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67164,
+            "stars": 67177,
             "topics": [
               "awesome",
               "awesome-list",
@@ -83,7 +83,7 @@
             "open_issues": 27,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35028,
+            "stars": 35029,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
@@ -198,10 +198,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-14T20:59:56Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37063,
+            "stars": 37070,
             "topics": [
               "awesome",
               "awesome-list",
@@ -241,7 +241,7 @@
             "open_issues": 103,
             "owner": "ramitsurana",
             "repo": "awesome-kubernetes",
-            "stars": 16125,
+            "stars": 16127,
             "topics": [
               "aws",
               "azure",
@@ -281,7 +281,7 @@
             "open_issues": 106,
             "owner": "donnemartin",
             "repo": "awesome-aws",
-            "stars": 14177,
+            "stars": 14176,
             "topics": [
               "aws",
               "aws-cli",
@@ -352,10 +352,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T01:13:20Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74949,
+            "stars": 74971,
             "topics": [
               "awesome",
               "awesome-list",
@@ -383,11 +383,11 @@
             "id": 44571718,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-01T19:32:18Z",
+            "last_commit": "2026-10-19T10:49:59Z",
             "open_issues": 97,
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73513,
+            "stars": 73514,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
@@ -405,10 +405,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-26T14:11:18Z",
-            "open_issues": 34,
+            "open_issues": 36,
             "owner": "jondot",
             "repo": "awesome-react-native",
-            "stars": 35703,
+            "stars": 35704,
             "topics": [
               "awesome-list",
               "mobile",
@@ -434,7 +434,7 @@
             "open_issues": 7,
             "owner": "sindresorhus",
             "repo": "awesome-electron",
-            "stars": 27318,
+            "stars": 27319,
             "topics": [
               "awesome",
               "awesome-list",
@@ -507,7 +507,7 @@
             "open_issues": 20,
             "owner": "webpack-contrib",
             "repo": "awesome-webpack",
-            "stars": 4672,
+            "stars": 4671,
             "topics": [
               "awesome",
               "awesome-list",
@@ -534,7 +534,7 @@
             "open_issues": 3,
             "owner": "max-mapper",
             "repo": "maintenance-modules",
-            "stars": 360,
+            "stars": 361,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
@@ -561,7 +561,7 @@
             "open_issues": 2,
             "owner": "ChromeDevTools",
             "repo": "awesome-chrome-devtools",
-            "stars": 7166,
+            "stars": 7169,
             "topics": [
               "awesome",
               "awesome-list"
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T21:34:21.278Z",
+    "last_updated": "2026-10-19T22:55:30.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "🐢🚀 An Awesome list of Awesome lists related to Node.js.",
