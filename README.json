@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67478,
+            "stars": 67496,
             "topics": [
               "awesome",
               "awesome-list",
@@ -174,7 +174,7 @@
             "open_issues": 8,
             "owner": "wbinnssmith",
             "repo": "awesome-promises",
-            "stars": 1782,
+            "stars": 1783,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
@@ -198,10 +198,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-11-12T09:05:02Z",
-            "open_issues": 80,
+            "open_issues": 79,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37225,
+            "stars": 37233,
             "topics": [
               "awesome",
               "awesome-list",
@@ -238,10 +238,10 @@
             "language": "Shell",
             "license": "NOASSERTION",
             "last_commit": "2026-10-31T06:53:23Z",
-            "open_issues": 107,
+            "open_issues": 104,
             "owner": "ramitsurana",
             "repo": "awesome-kubernetes",
-            "stars": 16139,
+            "stars": 16138,
             "topics": [
               "aws",
               "azure",
@@ -278,10 +278,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-03-12T09:29:54Z",
-            "open_issues": 109,
+            "open_issues": 108,
             "owner": "donnemartin",
             "repo": "awesome-aws",
-            "stars": 14198,
+            "stars": 14199,
             "topics": [
               "aws",
               "aws-cli",
@@ -323,7 +323,7 @@
             "open_issues": 12,
             "owner": "Friz-zy",
             "repo": "awesome-linux-containers",
-            "stars": 2111,
+            "stars": 2114,
             "topics": [
               "awesome",
               "best-practices",
@@ -355,7 +355,7 @@
             "open_issues": 39,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 75263,
+            "stars": 75273,
             "topics": [
               "awesome",
               "awesome-list",
@@ -384,10 +384,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-11-03T16:02:10Z",
-            "open_issues": 111,
+            "open_issues": 112,
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73477,
+            "stars": 73475,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
@@ -408,7 +408,7 @@
             "open_issues": 50,
             "owner": "jondot",
             "repo": "awesome-react-native",
-            "stars": 35708,
+            "stars": 35706,
             "topics": [
               "awesome-list",
               "mobile",
@@ -460,7 +460,7 @@
             "open_issues": 3,
             "owner": "dzharii",
             "repo": "awesome-typescript",
-            "stars": 5115,
+            "stars": 5114,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
@@ -507,7 +507,7 @@
             "open_issues": 20,
             "owner": "webpack-contrib",
             "repo": "awesome-webpack",
-            "stars": 4678,
+            "stars": 4680,
             "topics": [
               "awesome",
               "awesome-list",
@@ -585,7 +585,7 @@
             "open_issues": 5,
             "owner": "parro-it",
             "repo": "awesome-micro-npm-packages",
-            "stars": 4624,
+            "stars": 4623,
             "topics": []
           },
           "first_seen": "2026-08-29T02:17:30.989Z"
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T00:32:54.493Z",
+    "last_updated": "2026-11-14T00:22:17.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "🐢🚀 An Awesome list of Awesome lists related to Node.js.",
